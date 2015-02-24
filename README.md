@@ -28,312 +28,56 @@ and all jars from 'dependencies' folder
 
 Also, need to add antIntegration.jar from <IDEA_INSTALLATION>/plugins/ant/lib to SDK classpath.
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
+# PR Test 24-Feb-2015 
 
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 01
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 02
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
-
-# PR Test 15-Jan-2015 - 03
+# PR Test 24-Feb-2015 
